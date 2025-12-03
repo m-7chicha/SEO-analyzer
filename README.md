@@ -85,3 +85,5 @@ python cli.py https://www.wikipedia.org --report pdf --output wiki_report
 - Add TF-IDF / keyword density with `scikit-learn`.
 - Add a Streamlit web UI.
 - Add a Lighthouse integration example.
+
+currently the tool on upgrading (its working [doesn't updated yet])
